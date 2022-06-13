@@ -1,0 +1,2 @@
+timestamp,function,input,output,file_path
+14:49:25-June-03-2022,function_test,value_here,None,/home/project/airflow/dags/trafficproject/staging/road-traffic-project-log.csv
