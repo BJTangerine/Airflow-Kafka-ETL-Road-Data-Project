@@ -1,4 +1,4 @@
-# Automated Airflow ETL and Kafka Streaming ETL on Road Traffic Data
+# Apache Airflow/Kafka ETL on Static and Streaming Road Traffic Data
 
 Technologies: Python (Apache Airflow/Kafka, pandas, numpy, BeautifulSoup, requests, sqlalchemy) , Bash/shell, PostgreSQL, MySQL.
 
