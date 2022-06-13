@@ -32,8 +32,7 @@ Project files:
 * __kafka-consumer.py__ - Python script for ETL-ing each message from KafkaProducer into a MySQL db using KafkaConsumer.
 * __SimpleLogEngine.py__ - For logging.
 
-
-
+## Images
 Airflow, transformations engine
 
 ![transformer code image preview3](https://user-images.githubusercontent.com/88465305/173453602-db527a11-0e7c-40cc-9cf3-2d6cacaf8caf.PNG)
