@@ -47,4 +47,5 @@ Airflow, SQL View of Total payment Amount by Month/Day pairs if higher than aver
 
 Kafka consumer
 
-![kafka-consumer code snippet image](https://user-images.githubusercontent.com/88465305/173453728-280afd15-6a2a-4a86-bd5c-1645e3f62a03.PNG)
+![kafka-consumer code snippet image](https://user-images.githubusercontent.com/88465305/182212182-b8194245-29bc-43b2-a35c-410f41bdcf13.PNG)
+
